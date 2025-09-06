@@ -1,0 +1,14 @@
+{
+  "num_particles": 2200,
+  "num_types": 8,
+  "radius": 26.0,
+  "friction": 0.962,
+  "dt": 0.9,
+  "force_bias": 0.2,
+  "force_range": 1.3,
+  "force_mul": 1.35,
+  "food_density": 0.55,
+  "regrow_rate": 0.013,
+  "birth_energy": 160,
+  "max_age": 6500
+}
